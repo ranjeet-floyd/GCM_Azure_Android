@@ -1,0 +1,9 @@
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Release\GCM.SendToNotificationHub.dll.config
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Release\GCM.SendToNotificationHub.dll
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Release\GCM.SendToNotificationHub.pdb
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Release\Microsoft.ServiceBus.dll
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Release\Microsoft.ServiceBus.xml
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Release\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\obj\Release\GCM.SendToNotificationHub.dll
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\obj\Release\GCM.SendToNotificationHub.pdb

@@ -1,0 +1,10 @@
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Debug\GCM.SendToNotificationHub.pdb
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\obj\Debug\GCM.SendToNotificationHub.pdb
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Debug\GCM.SendToNotificationHub.dll.config
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Debug\GCM.SendToNotificationHub.dll
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\obj\Debug\SendToNotificationHub.csprojResolveAssemblyReference.cache
+C:\Users\StackOverflow\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\obj\Debug\GCM.SendToNotificationHub.dll
